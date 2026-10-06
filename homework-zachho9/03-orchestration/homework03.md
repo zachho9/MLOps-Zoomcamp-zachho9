@@ -91,7 +91,7 @@ Find the logged model, and find MLModel file. What's the size of the model? (`mo
 * 9,534
 * 4,534
 * 1,534
-* [x] 8,628
+* [x] 8,628 (in mlflow 3.16.0, skops is the default serialization_format)
 
 
 ## Submit the results
